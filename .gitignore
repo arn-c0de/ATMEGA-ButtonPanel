@@ -1,0 +1,13 @@
+# KiCad generated netlist export (contains local absolute paths)
+*.net
+
+# KiCad auto-backup archives
+*-backups/
+*.zip
+
+# KiCad local settings
+*.kicad_prl
+
+# OS
+.DS_Store
+Thumbs.db
