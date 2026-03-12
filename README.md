@@ -1,6 +1,5 @@
 # ATmega32U4 Button Panel V1.0
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Arduino](https://img.shields.io/badge/Platform-Arduino-00979D.svg)](https://www.arduino.cc/)
 [![MCU: ATmega32U4](https://img.shields.io/badge/MCU-ATmega32U4-blue.svg)](https://www.microchip.com/en-us/product/ATmega32U4)
 
