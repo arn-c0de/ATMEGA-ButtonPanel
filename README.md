@@ -4,6 +4,14 @@
 [![Platform: Arduino](https://img.shields.io/badge/Platform-Arduino-00979D.svg)](https://www.arduino.cc/)
 [![MCU: ATmega32U4](https://img.shields.io/badge/MCU-ATmega32U4-blue.svg)](https://www.microchip.com/en-us/product/ATmega32U4)
 
+> [!IMPORTANT]
+> **Private Learning Project:** This is a personal experimental project focused on learning PCB design, hardware architecture, and iterative improvements.
+> 
+> **Feedback is welcome!** If you have suggestions for improvements or find issues, please feel free to:
+> - Reach out via **private message** or email.
+> - Start a topic in the **Discussions** tab.
+> - Open a **Pull Request** with your proposed changes.
+
 ![FlightPanel-01 Schematic](images/FlightPanel-01-shematic.png)
 
 ## Table of Contents
