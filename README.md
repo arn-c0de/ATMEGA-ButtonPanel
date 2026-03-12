@@ -13,6 +13,7 @@
 > - Open a **Pull Request** with your proposed changes.
 
 ![FlightPanel-01 Schematic](images/FlightPanel-01-shematic.png)
+![FlightPanel-00 Hardware](images/FlightPanel-00-hardware.jpg)
 
 ## Table of Contents
 - [Overview](#overview)
