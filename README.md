@@ -14,6 +14,7 @@
 
 ![FlightPanel-01 Schematic](images/FlightPanel-01-shematic.png)
 ![FlightPanel-00 Hardware](images/FlightPanel-00-hardware.jpg)
+![FlightPanel-00 3D Top Plate](images/FlightPanel-00-3D-TopPlate.png)
 
 ## Table of Contents
 - [Overview](#overview)
